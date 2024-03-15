@@ -27,11 +27,14 @@ go get github.com/google/uuid
 
 
 # Creating Database
-according to your db_url 
+According to your `db_url`:
+
+```
 cd sql/schema
 goose postgres postgres://postgres:Password@localhost:5432/dailytask up
 cd ../..
 sqlc generate
+```
 
 - Getting tasks of user
 
