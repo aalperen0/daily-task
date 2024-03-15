@@ -17,5 +17,7 @@ cd ../..
 sqlc generate
 
 - Getting tasks of user
+
 ![dailytask-tasks2](https://github.com/aalperen0/daily-task/assets/88675716/e1f3cb26-d425-45f1-81e7-7cd0185fc37b)
+
 ![dailytask-tasks](https://github.com/aalperen0/daily-task/assets/88675716/31445ce8-eb80-4870-bf6f-9560bf2e99e7)
