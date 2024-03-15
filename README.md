@@ -1,12 +1,29 @@
 ## PostgreSQL based rest-api in Go
 
 # Installations
+```
 go install github.com/joho/godotenv/cmd/godotenv@latest
+```
+
+```
 go install github.com/sqlc-dev/sqlc/cmd/sqlc@latest
+```
+
+```
 go install github.com/pressly/goose/v3/cmd/goose@latest
+```
+
+```
 go get -u github.com/go-chi/chi/v5
+```
+
+```
 go get -u github.com/golang-jwt/jwt/v5
+```
+
+```
 go get github.com/google/uuid
+```
 
 
 # Creating Database
